@@ -46,3 +46,17 @@ menubg{
   height:800px;
   padding:5%;
 }
+
+
+
+main-content, p{
+  color: #fff;
+  font-family: 'Rock Salt', cursive;
+  display: inline;
+  align-content: center;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-right: 50px;
+  margin bottom: 20px;
+
+}
