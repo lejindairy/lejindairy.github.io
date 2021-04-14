@@ -1,13 +1,13 @@
-body{
+/* body{
   background-image: url("images/blk_grn_bg_001.png");
   background-color: #000;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: auto;
-}
+} */
 
-youtube.body{
+body{
   background-image: url("images/veggies_cutboard.png");
   background-color: #000;
   background-repeat: no-repeat;
