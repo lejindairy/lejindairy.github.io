@@ -7,6 +7,15 @@ body{
   background-size: auto;
 }
 
+youtube, body{
+  background-image: url("images/veggies_cutboard.png");
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: auto;
+}
+
 menu, ul{
   color: red;
   list-style-type: none;
