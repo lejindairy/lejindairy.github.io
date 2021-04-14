@@ -30,7 +30,9 @@ menu, ul{
 menu, li{
   display: inline;
   margin-left: 10px;
-  font-family: 'Rock Salt', cursive;
+  /* font-family: 'Rock Salt', cursive; */
+  font-family: 'Allan', cursive;
+  font-size: 30px;
   font-weight: 900;
 }
 
